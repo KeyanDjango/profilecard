@@ -55,6 +55,7 @@ a {
     background-color: white;
     border-radius:25px;
     font-weight:bold;
+    cursor: pointer;
 }
 .info{
     padding:10px;
