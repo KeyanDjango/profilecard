@@ -82,5 +82,6 @@ a {
     .profile_details{
         width:100%;
         margin:10px;
+        overflow-y: hidden;
     }
 }
